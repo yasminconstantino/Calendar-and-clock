@@ -1,5 +1,8 @@
 <h1>Calendar & Clock</h1>  
-<img src="icons8-calendar-96.png" width="46"/>
+<div>
+  <img src="icons8-calendar-96.png" width="46"/>
+  <img src="icons8-clock-96.png" width="46"/>
+</div>
   <p>This is a simple and pretty cute calendar with a clock.</p>
   <p>I made it using HTML, CSS and Javascript.</p>
 
