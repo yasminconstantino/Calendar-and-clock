@@ -26,7 +26,7 @@
     <p>Esse é um calendario com um relógio simples e fofo.</p>
     <br>
     <p>Eu fiz ele usando HTML, CSS e Javascript.</p>
-    <p>Você pode acessar a página e ver ela funcionando <a href="https://yasminconstantino.github.io/Hogwarts-Slytherin/">aqui</a></p>
+    <p>Você pode acessar a página e ver ela funcionando <a href="https://yasminconstantino.github.io/Calendar-and-clock/">aqui</a></p>
     <h4>Linguagens e tecnologias utilizadas:</h4>
     <div>
     <img src="html.png" width="38"/>
